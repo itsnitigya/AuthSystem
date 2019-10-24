@@ -1,1 +1,1 @@
-# Simple Authentication using Express-sesion and Postgresql
+# Simple Authentication using Express-session and Postgresql
